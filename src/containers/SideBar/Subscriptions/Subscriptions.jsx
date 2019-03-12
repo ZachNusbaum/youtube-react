@@ -12,6 +12,7 @@ export const Subscriptions = props => {
       <Subscription label="TEDx Talks" amountNewVideos={23} />
       <Subscription label="Stanford iOS" amountNewVideos={4} />
       <Subscription label="Udacity" amountNewVideos={114} />
+      <Divider />
     </React.Fragment>
   );
 };

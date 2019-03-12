@@ -15,7 +15,7 @@ export const Subscription = props => {
     <Menu.Item>
       <div className="subscription">
         <div>
-          <Image src="http://via.placeholder.com/28x28" />
+          <Image src="http://via.placeholder.com/28x28" avatar />
           <span>{props.label}</span>
         </div>
         {rightElement}
